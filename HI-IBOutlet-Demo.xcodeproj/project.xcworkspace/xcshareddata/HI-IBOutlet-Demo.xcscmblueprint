@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FD7019E747B84616BCAB92E00FBBAE3650A8C9E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FD7019E747B84616BCAB92E00FBBAE3650A8C9E4" : 0,
+    "E35A8FCF91AAF25AFDD0FA8A9316B49874FFDBCB" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C8B87736-32A2-47DF-8100-5A51FC6B6FBB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FD7019E747B84616BCAB92E00FBBAE3650A8C9E4" : "HyperIsland-ios\/",
+    "E35A8FCF91AAF25AFDD0FA8A9316B49874FFDBCB" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HI-IBOutlet-Demo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HI-IBOutlet-Demo\/HI-IBOutlet-Demo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cc-lemon\/ios-demo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E35A8FCF91AAF25AFDD0FA8A9316B49874FFDBCB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:FrostDigital\/HyperIsland-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FD7019E747B84616BCAB92E00FBBAE3650A8C9E4"
+    }
+  ]
+}
